@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=SMD_DCDC
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=HP-LAB230 (HP LaserJet M1536dnf MFP)
+TargetPrinter=\\jowisz\Logicor-Magazyn-Kyocera
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -223,7 +223,7 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration9_Name1=ColumnNameFormat
 Configuration9_Item1=CaptionAsName
 Configuration9_Name2=General
-Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration9_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1798|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
 Configuration9_Name3=GroupOrder
 Configuration9_Item3=Comment=True|Footprint=True
 Configuration9_Name4=OutputConfigurationParameter1
@@ -231,7 +231,9 @@ Configuration9_Item4=??
 Configuration9_Name5=SortOrder
 Configuration9_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration9_Name6=VisibleOrder
-Configuration9_Item6=Comment=100|Description=100|Designator=100|Footprint=100|Manufacturer=100|Manufacturer Part Number=100|Manufacturer1 ComponentHeight=100|Manufacturer1 Example=100|Manufacturer1 Part Number=100|Part Description=100|Part Number=100|Quantity=100
+Configuration9_Item6=Comment=100|Description=100|Designator=100|Footprint=100|Manufacturer=100|Part Number=100|Quantity=100
+Configuration9_Name7=VisibleOrder_Flat
+Configuration9_Item7=Comment=100|Description=100|Designator=100|Footprint=100|Manufacturer=100|Part Number=100|Quantity=100
 
 [PublishSettings]
 OutputFilePath2=.\DIO-SMA.PDF
